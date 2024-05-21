@@ -1,4 +1,5 @@
 import { Box, Button, Typography } from "@mui/material";
+import Banner from "../Banner/Banner";
 
 const Home = () => {
   return (
@@ -21,6 +22,8 @@ const Home = () => {
           <Button>Get start</Button>
         </Box>
       </Box>
+
+      <Banner/>
     </>
   );
 };
