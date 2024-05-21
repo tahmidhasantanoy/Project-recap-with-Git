@@ -3,6 +3,7 @@ import {
   Button,
   Container,
   Grid,
+  Link,
   TextField,
   Typography,
 } from "@mui/material";
@@ -86,6 +87,7 @@ const Signup = () => {
             >
               Sign Up
             </Button>
+            <Link href="/login">Already have account?</Link>
           </form>
         </Box>
       </Grid>
