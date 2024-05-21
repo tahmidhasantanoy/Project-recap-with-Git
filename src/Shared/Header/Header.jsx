@@ -23,7 +23,7 @@ const navItems = (
     >
       <ListItem style={{ padding: 0 }}>
         <Link
-          href="/"
+          to="/home"
           style={{
             textDecoration: "none",
             color: "inherit",
