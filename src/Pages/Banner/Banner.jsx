@@ -1,4 +1,4 @@
-import { Box, Button } from "@mui/material";
+import { Button } from "@mui/material";
 import video from "../../assets/Video/Untitled Project.mp4";
 
 const Banner = () => {
